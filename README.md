@@ -1,4 +1,4 @@
-== Simple ruby script to download all images from a given url
+Simple ruby script to download all images from a given url
 
 Looks for all images on a page by pattern - path and extension
 
